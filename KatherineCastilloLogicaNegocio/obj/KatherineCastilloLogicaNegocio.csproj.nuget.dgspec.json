@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloLogicaNegocio\\KatherineCastilloLogicaNegocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloAccesoDatos\\KatherineCastilloAccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloAccesoDatos\\KatherineCastilloAccesoDatos.csproj",
+        "projectName": "KatherineCastilloAccesoDatos",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloAccesoDatos\\KatherineCastilloAccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloAccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\KatherineCastilloEntidadNegocio.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\KatherineCastilloEntidadNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\KatherineCastilloEntidadNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\KatherineCastilloEntidadNegocio.csproj",
+        "projectName": "KatherineCastilloEntidadNegocio",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\KatherineCastilloEntidadNegocio.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloLogicaNegocio\\KatherineCastilloLogicaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloLogicaNegocio\\KatherineCastilloLogicaNegocio.csproj",
+        "projectName": "KatherineCastilloLogicaNegocio",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloLogicaNegocio\\KatherineCastilloLogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloLogicaNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloAccesoDatos\\KatherineCastilloAccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloAccesoDatos\\KatherineCastilloAccesoDatos.csproj"
+              },
+              "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\KatherineCastilloEntidadNegocio.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\UltimapruebaNcapas\\KatherineCastillo.2024.PruebaTecnica\\KatherineCastilloEntidadNegocio\\KatherineCastilloEntidadNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
