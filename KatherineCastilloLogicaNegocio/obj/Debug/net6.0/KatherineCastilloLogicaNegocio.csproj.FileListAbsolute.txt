@@ -1,0 +1,5 @@
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloLogicaNegocio\obj\Debug\net6.0\KatherineCastilloLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloLogicaNegocio\obj\Debug\net6.0\KatherineCastilloLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloLogicaNegocio\obj\Debug\net6.0\KatherineCastilloLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloLogicaNegocio\obj\Debug\net6.0\KatherineCastilloLogicaNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloLogicaNegocio\obj\Debug\net6.0\KatherineCastilloLogicaNegocio.csproj.CoreCompileInputs.cache

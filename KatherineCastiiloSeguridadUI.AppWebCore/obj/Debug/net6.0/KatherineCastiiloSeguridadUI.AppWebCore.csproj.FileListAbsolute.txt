@@ -1,0 +1,8 @@
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.RazorAssemblyInfo.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastiiloSeguridadUI.AppWebCore\obj\Debug\net6.0\KatherineCastiiloSeguridadUI.AppWebCore.RazorAssemblyInfo.cs

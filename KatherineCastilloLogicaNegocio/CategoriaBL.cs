@@ -30,19 +30,19 @@ namespace KatherineCastilloLogicaNegocio
             return await _categoriaDAL.UpdateCategoriaAsync(kCategoria);
         }
 
-        public async Task<int> DeleteCategoriaAsync(int categoriaId)
+        public async Task<int> DeleteCategoriaAsync(int Id)
         {
            
 
-            var categoria = new Categoria { Id = categoriaId };
+            var categoria = new Categoria { Id = Id };
             return await _categoriaDAL.DeleteCategoriaAsync(categoria);
         }
 
-        public async Task<Categoria> GetByIdAsync(int categoriaId)
+        public async Task<Categoria> GetByIdAsync(int Id)
         {
            
 
-            var categoria = await _categoriaDAL.GetById(new Categoria { Id = categoriaId });
+            var categoria = await _categoriaDAL.GetById(new Categoria { Id = Id });
 
 
             return categoria;
