@@ -1,4 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using KatherineCastilloAccesoDatos;
+using KatherineCastilloLogicaNegocio;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddScoped<ProductoBL>();
+builder.Services.AddScoped<ProductoDAL>();
+builder.Services.AddScoped<CategoriaBL>();
+builder.Services.AddScoped<CategoriaDAL>();
+
+var conString = builder.Configuration.GetConnectionString("Conn");
+builder.Services.AddDbContext<AppDbContext>(
+    options => options.UseMySql(conString, ServerVersion.AutoDetect(conString))
+);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -12,6 +25,7 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\bin\Debug\net6.0\KatherineCastilloAccesoDatos.deps.json
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\bin\Debug\net6.0\KatherineCastilloAccesoDatos.dll
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\bin\Debug\net6.0\KatherineCastilloAccesoDatos.pdb
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\bin\Debug\net6.0\KatherineCastilloEntidadNegocio.dll
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\bin\Debug\net6.0\KatherineCastilloEntidadNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.dll
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\refint\KatherineCastilloAccesoDatos.dll
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\KatherineCastilloAccesoDatos.pdb
+C:\Users\MINEDUCYT\Desktop\UltimapruebaNcapas\KatherineCastillo.2024.PruebaTecnica\KatherineCastilloAccesoDatos\obj\Debug\net6.0\ref\KatherineCastilloAccesoDatos.dll
